@@ -47,6 +47,13 @@ We’ve seen how we can do some work on local and remote computers. One key step
 <br /> 
 If it worked, it should look as follows
 <br /> <br />
-![image](https://user-images.githubusercontent.com/56976660/149582978-7dc1a909-517e-4101-9E29-5ba56715df6e.png)
+![image](https://user-images.githubusercontent.com/56976660/149583289-4b6a51fd-5d5a-4b40-b5b2-f531935d03b5.png)
 <br /> <br />
 If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+## Step 6 Optimizing Remote Running
+The final step in finishing up this enviornment set up, will be optimizing our tools. One way to do this is by using commands all on the same line with semicolons.
+Here is an example of how that is done.
+<br />
+ ![image](https://user-images.githubusercontent.com/56976660/149584544-8f3929d9-2569-4db1-b341-50e7ed00607f.png)
+
+ 
