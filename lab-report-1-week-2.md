@@ -8,9 +8,7 @@ If you’re on a computer that uses Windows operating system, you must install a
 1. For the first step, open a terminal in VSCode. Your command will look like this, but with the aa replaced by the letters in your course-specific account.
 <br /> *$ ssh cs15lwi22aa@ieng6.ucsd.edu* <br />
 2. Second, you should get a message like this: 
-<br />*⤇ ssh cs15lwi22zz@ieng6.ucsd.edu The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])?* <br />
-You will want to type **yes** to this and press enter.
-
-
+<br />*⤇ ssh cs15lwi22aa@ieng6.ucsd.edu The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])?* <br />
+3. You will want to type __yes__ to this and press enter.
 ![image](https://user-images.githubusercontent.com/56976660/149551755-ea8b75fd-165a-44a2-bce3-79773601125b.png)
 
