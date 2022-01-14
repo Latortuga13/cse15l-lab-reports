@@ -24,6 +24,7 @@ Try typing these commands into your terminal.
 -    cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 -    cat /home/linux/ieng6/cs15lwi22/public/hello.txt
  <br />
-here is an example of what it should look like:
+Here is an example of what it should look like:
 <br />   <br />
-![image](https://user-images.githubusercontent.com/56976660/149567887-c8f77616-2a38-410b-8b56-d1322a517829.png)
+ 
+![image](https://user-images.githubusercontent.com/56976660/149568221-9f6827fa-e46a-4b12-86ec-670d65e8e631.png)
