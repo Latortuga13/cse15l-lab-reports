@@ -26,8 +26,9 @@ Try typing these commands into your terminal.
 -    pwd
  <br />
 Here is an example of what using the pwd command should look like:
-<br />   <br />
+ 
 ![image](https://user-images.githubusercontent.com/56976660/149586009-c8102ffc-ea30-4050-a2a5-19f283c3adfe.png) 
+
 ## Step 4 Moving Files With Scp
 We’ve seen how we can do some work on local and remote computers. One key step in working remotely is being able to copy files back and forth between the computers. There are lots of options for how to do this, for example, you could have sent yourself an email from another computer. One way of doing this is by using a command called scp.
 <br /> Here is how you can use scp for yourself.
