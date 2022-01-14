@@ -47,6 +47,6 @@ We’ve seen how we can do some work on local and remote computers. One key step
 <br /> 
 If it worked, it should look as follows
 <br />
-![image](https://user-images.githubusercontent.com/56976660/149582306-18538af7-a466-4f90-80b3-efcf3ebb8d2d.png)
+![image](https://user-images.githubusercontent.com/56976660/149582978-7dc1a909-517e-4101-9e29-5ba56715df6e.png)
 <br /> <br />
 If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
