@@ -29,7 +29,7 @@ Here is an example of what using the pwd command should look like:
 <br />   <br />
  
 ![image](https://user-images.githubusercontent.com/56976660/149568221-9f6827fa-e46a-4b12-86ec-670d65e8e631.png)
-## Step 4 Moving Files with scp
+## Step 4 Moving Files With Scp
 We’ve seen how we can do some work on local and remote computers. One key step in working remotely is being able to copy files back and forth between the computers. There are lots of options for how to do this, for example, you could have sent yourself an email from another computer. One way of doing this is by using a command called scp.
 <br /> Here is how you can use scp for yourself.
  1. first, make a class in java that does anything, in my example I had a class called WhereAmI which just consisted of a bunch of print statements/
@@ -44,17 +44,19 @@ We’ve seen how we can do some work on local and remote computers. One key step
 - Then enter this as  the file to save the key (/Users/joe/.ssh/id_rsa): /Users/joe/.ssh/id_rsa
 - Third, create a passphrase, leave the spot blank if you do not want one. You will have to do it twice to confirm.
 - Finally, test it by using the ssh cs15lwi22aa@ieng6.ucsd.edu command in terminal and seeing if it requires a password.
-<br /> 
+<br /> <br />
 If it worked, it should look as follows
 <br /> <br />
 ![image](https://user-images.githubusercontent.com/56976660/149583289-4b6a51fd-5d5a-4b40-b5b2-f531935d03b5.png)
 <br /> <br />
 If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
-<br />
+<br /><br />
 ## Step 6 Optimizing Remote Running
-The final step in finishing up this enviornment set up, will be optimizing our tools. One way to do this is by using commands all on the same line with semicolons.
+The final step in finishing up this enviornment set up, will be optimizing our tools. One example of an efficient tool is the semicolon. The semicolon allows for the use of multiple commands on the same line.
 Here is an example of how that is done.
-<br />
+<br /><br />
  ![image](https://user-images.githubusercontent.com/56976660/149584544-8f3929d9-2569-4db1-b341-50e7ed00607f.png)
+<br />
+ Overall, we can use tools like this to further expedite our process. This is the end of the tutorial.
 
  
