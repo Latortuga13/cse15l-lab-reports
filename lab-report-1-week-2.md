@@ -34,5 +34,19 @@ We’ve seen how we can do some work on local and remote computers. One key step
 <br /> Here is how you can use scp for yourself.
  1. first, make a class in java that does anything, in my example I had a class called WhereAmI which just consisted of a bunch of print statements/
  2. Next run this command: <br /> scp WhereAmI.java cs15lwi22aa@ieng6.ucsd.edu:~/ <br /> (obviously use your coursespecific account and your specific class instead of the ones in the example).
+ 3. Once you do this, you should see a password screen show up and you should just input your password from when you created your course-specific account.
+ 4. If you input your correct password, the result should appear like the image below.
  <br /> <br />
  ![image](https://user-images.githubusercontent.com/56976660/149577904-ea66fad4-5d57-4372-bd16-d07f8f459adb.png)
+ ## Step 5 Setting an SSH Key
+ As you have probably realized there is a big problem with using the scp command. Inputting yout password every time. Luckily, there is an easy fix, using ssh keys! if you use an ssh key, you won't need to log in every time when trying to move your files, and save a lot of time. This is how it is done. 
+- Start by using the command *ssh keygen*
+- Then enter this as  the file to save the key (/Users/joe/.ssh/id_rsa): /Users/joe/.ssh/id_rsa
+- Third, create a passphrase, leave the spot blank if you do not want one. You will have to do it twice to confirm.
+- Finally, test it by using the ssh cs15lwi22aa@ieng6.ucsd.edu command in terminal and seeing if it requires a password.
+<br /> 
+If it worked, it should look as follows
+<br />
+![image](https://user-images.githubusercontent.com/56976660/149582306-18538af7-a466-4f90-80b3-efcf3ebb8d2d.png)
+<br /> <br />
+If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
