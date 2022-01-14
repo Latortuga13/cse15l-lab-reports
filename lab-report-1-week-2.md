@@ -23,3 +23,6 @@ Try typing these commands into your terminal.
 -    ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
 -    cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 -    cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+here is an example of what it should look like:
+<br />   <br />
+![image](https://user-images.githubusercontent.com/56976660/149567887-c8f77616-2a38-410b-8b56-d1322a517829.png)
