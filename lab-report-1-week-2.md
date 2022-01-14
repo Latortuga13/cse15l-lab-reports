@@ -14,4 +14,12 @@ If you’re on a computer that uses Windows operating system, you must install a
 4. If you completed all of the above steps correctly, your terminal should look like this right now.
 <br />   <br />
 ![image](https://user-images.githubusercontent.com/56976660/149551755-ea8b75fd-165a-44a2-bce3-79773601125b.png)
-
+## Step 3 Trying Some Commands
+Try typing these commands into your terminal.
+-    cd ~
+-    cd
+-    ls -lat
+-    ls -a
+-    ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
+-    cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
+-    cat /home/linux/ieng6/cs15lwi22/public/hello.txt
