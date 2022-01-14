@@ -50,6 +50,7 @@ If it worked, it should look as follows
 ![image](https://user-images.githubusercontent.com/56976660/149583289-4b6a51fd-5d5a-4b40-b5b2-f531935d03b5.png)
 <br /> <br />
 If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+<br />
 ## Step 6 Optimizing Remote Running
 The final step in finishing up this enviornment set up, will be optimizing our tools. One way to do this is by using commands all on the same line with semicolons.
 Here is an example of how that is done.
