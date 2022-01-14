@@ -46,7 +46,7 @@ We’ve seen how we can do some work on local and remote computers. One key step
 - Finally, test it by using the ssh cs15lwi22aa@ieng6.ucsd.edu command in terminal and seeing if it requires a password.
 <br /> 
 If it worked, it should look as follows
-<br />
-![image](https://user-images.githubusercontent.com/56976660/149582978-7dc1a909-517e-4101-9e29-5ba56715df6e.png)
+<br /> <br />
+![image](https://user-images.githubusercontent.com/56976660/149582978-7dc1a909-517e-4101-9E29-5ba56715df6e.png)
 <br /> <br />
 If you are on windows, before you do these instructions, you must follow the instructions on this website [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
