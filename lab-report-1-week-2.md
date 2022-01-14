@@ -23,8 +23,16 @@ Try typing these commands into your terminal.
 -    ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
 -    cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 -    cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+-    pwd
  <br />
-Here is an example of what it should look like:
+Here is an example of what using the pwd command should look like:
 <br />   <br />
  
 ![image](https://user-images.githubusercontent.com/56976660/149568221-9f6827fa-e46a-4b12-86ec-670d65e8e631.png)
+## Step 4 Moving Files with scp
+We’ve seen how we can do some work on local and remote computers. One key step in working remotely is being able to copy files back and forth between the computers. There are lots of options for how to do this, for example, you could have sent yourself an email from another computer. One way of doing this is by using a command called scp.
+<br /> Here is how you can use scp for yourself.
+ 1. first, make a class in java that does anything, in my example I had a class called WhereAmI which just consisted of a bunch of print statements/
+ 2. Next run this command: <br /> scp WhereAmI.java cs15lwi22aa@ieng6.ucsd.edu:~/ <br /> (obviously use your coursespecific account and your specific class instead of the ones in the example).
+ <br /> <br />
+ ![image](https://user-images.githubusercontent.com/56976660/149577904-ea66fad4-5d57-4372-bd16-d07f8f459adb.png)
