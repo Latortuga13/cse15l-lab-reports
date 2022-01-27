@@ -2,9 +2,12 @@
 ## Error 1
 ### The symptom<br/>
 ![image](https://user-images.githubusercontent.com/56976660/151304330-154e4cd4-1633-4edd-a36b-ee26227064e8.png)<br />
-### The new test to check if it is fixed (in MarkdownParseTest)
-### The actual fix in MarkdownParse
+### The new test to check if it is fixed (in MarkdownParseTest)<br />
 ![image](https://user-images.githubusercontent.com/56976660/151301934-87594d00-d856-4922-8f6d-806b028e5cc4.png)
+### The actual fix in MarkdownParse
+![image](https://user-images.githubusercontent.com/56976660/151405280-4f319624-8e0e-4cbf-9fc9-c7e41df256ca.png)
+### Summary
+This error refers to the test3 file, where there are no brackets or parentheses in the text file. By adding some if statements referring to this problem, we are able to make a case for our program to deal with a text file with no parentheses or brackets.
 ## Error 2
 ### The symptom <br />
 ![image](https://user-images.githubusercontent.com/56976660/151303058-a341262e-8db1-4835-964c-607008aaf6b7.png)<br />
