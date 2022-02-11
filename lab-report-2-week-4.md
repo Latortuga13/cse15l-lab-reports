@@ -1,5 +1,6 @@
 # Lab Report 2 <br />
 ## Error 1
+[Click here for the first failing test!](https://github.com/Latortuga13/markdown-parse/blob/main/test1.md)<br />
 ### The symptom<br/>
 ![image](https://user-images.githubusercontent.com/56976660/151304330-154e4cd4-1633-4edd-a36b-ee26227064e8.png)<br />
 ### The new test to check if it is fixed (in MarkdownParseTest)<br />
@@ -9,6 +10,7 @@
 ### Summary
 This error refers to the test3 file, where there are no brackets or parentheses in the text file. By adding some if statements referring to this problem, we are able to make a case for our program to deal with a text file with no parentheses or brackets.
 ## Error 2
+[Click here for the second failing test!](https://github.com/Latortuga13/markdown-parse/blob/main/test2.md)<br />
 ### The symptom <br />
 ![image](https://user-images.githubusercontent.com/56976660/151410580-2d6de65d-bb95-46ea-bebb-911a65794b70.png)<br />
 ### The new test to check if it is fixed (in MarkdownParseTest)
@@ -18,6 +20,7 @@ This error refers to the test3 file, where there are no brackets or parentheses 
 ### Summary
 This error refers to the test5 file. In the test5 file, the test randomly puts stuff that is not links into brackets and parentheses. Markdown is only supposed to acquire links, so the code aquiring a link from a test file with no links is an error. Our if statements from test 3 correct this error.
 ## Error 3
+[Click here for the third failing test!](https://github.com/Latortuga13/markdown-parse/blob/main/test3.md)<br />
 ### The symptom <br />
 ![image](https://user-images.githubusercontent.com/56976660/151411418-e63cfbca-a835-49ce-aca8-5693c0ea39ed.png)<br />
 ### The new test to check if it is fixed (in MarkdownParseTest)
