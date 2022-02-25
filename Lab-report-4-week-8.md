@@ -49,5 +49,10 @@ Location of error
 Location of error
 <br />
 ![image](https://user-images.githubusercontent.com/56976660/155465467-9b4581a5-b631-4592-8d3f-c409cd0f750b.png)
-
-
+# Conclusions
+## Snippet 1
+I believe that there definitely a small change that could fix my code for snippet one. It is a case where the coder only has to deal with a close bracket. Coding in a simple if statement checking that the next character is the last close bracket can cause the snippet one test to pass.
+## Snippet 2
+I also believe that there definitely a small change that could fix my code for snippet two. It is a case where the coder only has to deal with close brackets and close paren. Coding in two simple if statements checking that the next character is the last close bracket or last close paren can cause the snippet two test to pass.
+## Snippet 3
+I believe that the error caused by this bug requires a much larger change then the code for the other two. This is because the indexOf command does not deal with next line cases, and I would have to hard code in how to to locate the index of the close bracket passed next lines. My idea would be to write a new method that takes next line into account then use that method instead of indexOf.
